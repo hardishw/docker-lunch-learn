@@ -1,2 +1,5 @@
 # docker-lunch-learn
-tutorial for basic docker usage
+---
+Lets build our first image
+* cd first_image/
+* 
